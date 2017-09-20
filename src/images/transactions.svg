@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="20" viewBox="0 0 27 20">
+    <defs>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-opacity="0"/>
+            <stop offset="100%" stop-opacity=".399"/>
+        </linearGradient>
+        <path id="a" d="M24.325 17.083v1.367a.83.83 0 0 1-.833.833H.833A.836.836 0 0 1 0 18.45V5.417c0-.459.375-.834.833-.834h1.409v10c0 1.375 1.125 2.5 2.5 2.5h19.583z"/>
+        <path id="c" d="M25.833.717H4.742a.836.836 0 0 0-.834.833v13.033c0 .459.375.834.834.834h21.091a.83.83 0 0 0 .834-.834V1.55a.83.83 0 0 0-.834-.833zM15.292 11.25c-1.775 0-3.209-1.425-3.209-3.183 0-1.759 1.434-3.184 3.209-3.184 1.766 0 3.208 1.425 3.208 3.184 0 1.758-1.442 3.183-3.208 3.183zM5.575 2.383h2.933a3.843 3.843 0 0 1-2.933 2.884V2.383zm0 11.367v-2.892a3.841 3.841 0 0 1 2.933 2.892H5.575zm19.425 0h-2.933A3.841 3.841 0 0 1 25 10.858v2.892zm0-8.483c-1.45-.317-2.608-1.45-2.933-2.884H25v2.884z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <use fill="#608FFB" xlink:href="#a"/>
+            <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#a"/>
+        </g>
+        <g>
+            <use fill="#608FFB" xlink:href="#c"/>
+            <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#c"/>
+        </g>
+    </g>
+</svg>
